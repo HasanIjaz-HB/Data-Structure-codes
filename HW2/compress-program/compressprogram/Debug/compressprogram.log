@@ -1,0 +1,41 @@
+﻿  compress.cpp
+c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\compress.cpp(17): warning C4018: '>=': signed/unsigned mismatch
+c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\hashtable.h(119): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\hashtable.h(111): note: while compiling class template member function 'void HashTable<Dictionary>::insert(const HashedObj &)'
+          with
+          [
+              HashedObj=Dictionary
+          ]
+  c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\compress.cpp(20): note: see reference to function template instantiation 'void HashTable<Dictionary>::insert(const HashedObj &)' being compiled
+          with
+          [
+              HashedObj=Dictionary
+          ]
+  c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\compress.cpp(19): note: see reference to class template instantiation 'HashTable<Dictionary>' being compiled
+c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\hashtable.h(76): warning C4018: '>=': signed/unsigned mismatch
+  c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\hashtable.h(68): note: while compiling class template member function 'int HashTable<Dictionary>::findPos(const HashedObj &) const'
+          with
+          [
+              HashedObj=Dictionary
+          ]
+  c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\hashtable.h(102): note: see reference to function template instantiation 'int HashTable<Dictionary>::findPos(const HashedObj &) const' being compiled
+          with
+          [
+              HashedObj=Dictionary
+          ]
+  c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\hashtable.h(54): note: while compiling class template member function 'HashTable<Dictionary>::HashTable(const HashedObj &,int)'
+          with
+          [
+              HashedObj=Dictionary
+          ]
+  c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\compress.cpp(40): note: see reference to function template instantiation 'HashTable<Dictionary>::HashTable(const HashedObj &,int)' being compiled
+          with
+          [
+              HashedObj=Dictionary
+          ]
+c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\hashtable.h(130): warning C4018: '<': signed/unsigned mismatch
+  c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\hashtable.h(125): note: while compiling class template member function 'void HashTable<Dictionary>::rehash(void)'
+  c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\hashtable.h(120): note: see reference to function template instantiation 'void HashTable<Dictionary>::rehash(void)' being compiled
+c:\users\h b\desktop\sabanci\sabanci courses\courses by hb\cs 300\hw\hw2\compress-program\compressprogram\hashtable.h(135): warning C4018: '<': signed/unsigned mismatch
+  compressprogram.vcxproj -> C:\Users\H B\Desktop\SABANCI\Sabanci Courses\Courses by HB\CS 300\HW\HW2\compress-program\Debug\compressprogram.exe
+  compressprogram.vcxproj -> C:\Users\H B\Desktop\SABANCI\Sabanci Courses\Courses by HB\CS 300\HW\HW2\compress-program\Debug\compressprogram.pdb (Partial PDB)
